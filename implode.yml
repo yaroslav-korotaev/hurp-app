@@ -1,0 +1,11 @@
+source: ../templates/lib
+data:
+  name: hurp-app
+  version: "0.1.0"
+  description: Simple and opinionated CLI app framework
+  keywords:
+    - hurp
+    - cli
+    - framework
+  author: Yaroslav Korotaev <yaroslav.korotaev@gmail.com>
+  repo: yaroslav-korotaev/hurp-app
